@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I am Juliana
 I am a passionate data analyst with over 10 years of experience in planning and consulting. 
-Blending business experience with data analytics domain, I help clients make informed decisions using Excel, SQL, Python, and Power BI. 
+Blending business experience with data analytics domain, I help companies make informed decisions using Excel, SQL, Python, and Power BI. 
 
 Let's unlock valuable insights together!
 
