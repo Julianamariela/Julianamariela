@@ -6,7 +6,7 @@ Currently, I proudly serve as a data analyst, leveraging my business acumen to u
 
 This journey has been nothing short of extraordinary, and if you're interested in learning more about my background, I invite you to explore my portfolio and experiences
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianamariela)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
