@@ -1,10 +1,10 @@
-### Hi there, I am Juliana
+### Hi there, I'm Juliana!
 
-Having accumulated over a decade of business planning experience, my innate thirst for knowledge steered me towards the realm of data analysis. This amalgamation empowered me to refine my critical thinking abilities and proficiently wield tools such as Excel, SQL, Python, and PowerBI.
+I'm a business planning professional with over a decade of experience. My innate thirst for knowledge has led me to the exciting realm of data analysis, where I've honed my critical thinking skills and become proficient in tools such as Excel, SQL, Python, and Power BI.
 
-Presently, I proudly assume the role of a data analyst, leveraging my business acumen to unearth powerful insights that enrich the planning process and provide clients with well-informed decision-making guidance.
+Currently, I proudly serve as a data analyst, leveraging my business acumen to uncover powerful insights that enhance the planning process and provide clients with well-informed decision-making guidance.
 
-This journey has been nothing short of extraordinary, and if you're interested in delving deeper into my background, I invite you to explore my portfolio and experiences.
+This journey has been nothing short of extraordinary, and if you're interested in learning more about my background, I invite you to explore my portfolio and experiences
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianamariela)](https://github.com/anuraghazra/github-readme-stats)
 
