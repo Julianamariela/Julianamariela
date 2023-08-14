@@ -1,5 +1,3 @@
-# 🔭 I’m currently working on this page... 
-
 ### Hi there 👋, I am Juliana
 
 With over 10 years of experience in consulting and business planning, my innate drive for learning led me to combine my experience with the world data analysis. This fusion allowed me to enhance my critical thinking skills and master tools like Excel, SQL, Python, and PowerBI.
