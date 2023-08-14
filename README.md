@@ -1,6 +1,6 @@
 ### Hi there, I'm Juliana!
 
-I'm a business planning professional with over a decade of experience. My innate thirst for knowledge has led me to the exciting realm of data analysis, where I've honed my critical thinking skills and become proficient in tools such as Excel, SQL, Python, and Power BI.
+I'm a planning professional with over a decade of experience. My innate thirst for knowledge has led me to the exciting realm of data analysis, where I've honed my critical thinking skills and become proficient in tools such as Excel, SQL, Python, and Power BI.
 
 Currently, I proudly serve as a data analyst, leveraging my business acumen to uncover powerful insights that enhance the planning process and provide clients with well-informed decision-making guidance.
 
