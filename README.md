@@ -1,6 +1,6 @@
 ### Hi there, I'm Juliana!
 
-I am a dedicated analyst with over a decade of professional history in strategic planning and business process improvement. My thirst for knowledge has led me into the realm of data analysis, where I have honed my critical thinking skills and become proficient in tools such as Excel, SQL, Python, and Power BI.
+I am a dedicated analyst with over a decade of experience in strategic planning and business process improvement. My thirst for knowledge has led me into the realm of data analysis, where I have honed my critical thinking skills and become proficient in tools such as Excel, SQL, Python, and Power BI.
 
 Currently, I proudly serve as a Data Analyst in a project-oriented role, where I apply my expertise to drive data-driven insights.
 
